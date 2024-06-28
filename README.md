@@ -2122,6 +2122,30 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenContracts](https://github.com/JSv4/OpenContracts)
+Sophisticated document management and extraction of insights at scale.
+
+<details>
+	
+![image](https://github.com/e2b-dev/awesome-ai-agents/assets/5049984/a961c0d6-a68d-4613-9ea9-1e8467b66ad0)
+
+### Category
+Data analysis, Productivity, Research, Marketig, Sales, Finance
+
+### Description
+Open-source, enterprise-grade document analytics platform that combines automated PDF layout parsing, semantic search (with rerank), and custom LLM agents with visually-rich document annotation capabilities to enable sophisticated document management and extraction of insights at scale.
+
+- **Manage Documents** - Manage document collections (Corpuses). Automatic thumbnail extraction.
+- **Agentic Retrieval** - Use our vector stores (powered by pgvector) and any manual or automatically annotated features to let an LLM intelligently answer questions.
+- **Layout Parser** - Automatically extracts layout features from PDFs using open source nlm-ingest.
+- **Automatic Vector Embeddings** - generated for uploaded PDFs and extracted layout blocks and stored via pgvector Django integration.
+- **Pluggable microservice analyzer architecture** - to let you analyze documents and automatically annotate them
+- **Human Annotation Interface** - React GUI lets you manually annotate documents, including multi-page annotations.
+- **Data Extract** - ask multiple questions across hundreds of documents using complex LLM-powered querying behavior. Our sample implementation uses LlamaIndex + Marvin.
+- **Custom Data Extract** - Custom data extract pipelines can be used on the frontend to query documents in bulk.
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
@@ -4667,7 +4691,6 @@ Technical challenges of building AI products, Business/marketing challenges of b
 - [LinkedIn](https://www.linkedin.com/company/nexusgpt/)
 
 </details>
-
 
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
